@@ -3,7 +3,7 @@
 	"aboutimg": "https://pbs.twimg.com/profile_images/1481393685988196356/hfh5iFus_400x400.jpg",
 	"portfolio": [
 		{
-			"name": "Super Minigolf",
+			"name": "Super Minigolf 3D",
 			"desc": "Juego de minigolf donde se implementa el motor físico",
 			"img": "https://http2.mlstatic.com/D_NQ_NP_862399-MLM32150207904_092019-V.jpg",
 			"src": "https://gitlab.com/cocoschool/MiniGolf3D"
