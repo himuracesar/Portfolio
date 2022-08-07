@@ -13,7 +13,7 @@
 			"desc": "Juego Dungeon Crawler donde un científico loco pierde el control de su laboratorio y tiene que recuperarlo",
 			"img": "https://previews.123rf.com/images/luckybusiness/luckybusiness1906/luckybusiness190600207/125198681-crazy-scientist-with-dirty-face-in-lab-surrounded-by-the-smoke-from-the-explosion.jpg",
 			"src": "https://gitlab.com/cocoprojects/labmadness"
-		}
+		},
 		{
 			"name": "Super Minigolf",
 			"desc": "Juego de minigolf donde se implementa el motor físico",
