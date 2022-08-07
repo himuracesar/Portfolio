@@ -4,21 +4,57 @@
 	"portfolio": [
 		{
 			"name": "In-Hero",
-			"desc": "Juego del bullet hell donde deberás destruir los enemigos que vayan saliendo para abrirte paso en el escenario.",
+			"desc": "Juego del género bullet-hell donde el jugador controla una nave espacial y debe eliminar a los enemigos para abrirse paso en el escenario.",
 			"img": "https://cesarhimura.files.wordpress.com/2021/07/screenshot_2.png",
 			"src": ""
 		},
 		{
 			"name": "Lab Madness",
-			"desc": "Juego Dungeon Crawler donde un científico loco pierde el control de su laboratorio y tiene que recuperarlo",
+			"desc": "Un científico loco pierde el control de su laboratorio y para recuperarlo el jugador deberá eliminar a los enemigos y resolver los puzzles que se presenten.",
 			"img": "https://previews.123rf.com/images/luckybusiness/luckybusiness1906/luckybusiness190600207/125198681-crazy-scientist-with-dirty-face-in-lab-surrounded-by-the-smoke-from-the-explosion.jpg",
 			"src": "https://gitlab.com/cocoprojects/labmadness"
 		},
 		{
 			"name": "Super Minigolf",
-			"desc": "Juego de minigolf donde se implementa el motor físico",
+			"desc": "Juego de mini golf donde los tiros y rebotes de la pelota obedecen a efectos físicos. El jugador debe completar cada uno de los circuitos para recuperar el control del centro de mini golf que fue tomado por un grupo de extraterrestres.",
 			"img": "https://http2.mlstatic.com/D_NQ_NP_862399-MLM32150207904_092019-V.jpg",
 			"src": "https://gitlab.com/cocoschool/MiniGolf3D"
+		},
+		{
+			"name": "Jagos",
+			"desc": "Juegos de estrategia que se desarrolla en un futuro post-apocalíptico donde el ser humano fue exterminado y varias inteligencias artificiales se disputan el territorio. El jugador controla una IA de nombre Jagos y debe eliminar a otras máquinas para quedarse con el territorio.",
+			"img": "https://http2.mlstatic.com/D_NQ_NP_862399-MLM32150207904_092019-V.jpg",
+			"src": "https://gitlab.com/cocoschool/MiniGolf3D"
+		},
+		{
+			"name": "Galaxian Ophtalmologic",
+			"desc": "Serious game desarrollado para alumnos del Instituto Politécnico Nacional. El juego fue usado como un ejercicio complementario para recobrar la vista 20/20.",
+			"img": "https://cesarhimura.files.wordpress.com/2021/07/screenshot_2.png",
+			"src": ""
+		},
+		{
+			"name": "Asteroids",
+			"desc": "Clon del juego clásico de Asteroides.",
+			"img": "https://cesarhimura.files.wordpress.com/2021/07/screenshot_2.png",
+			"src": ""
+		},
+		{
+			"name": "Arkanoid",
+			"desc": "Clon del juego clásico de Arkanoid.",
+			"img": "https://cesarhimura.files.wordpress.com/2021/07/screenshot_2.png",
+			"src": ""
+		},
+		{
+			"name": "Sabotage",
+			"desc": "Clon del juego de 1982 para la Apple II del mismo nombre desarrollado por Mark Allen.",
+			"img": "https://cesarhimura.files.wordpress.com/2021/07/screenshot_2.png",
+			"src": ""
+		},
+		{
+			"name": "Basics Shading",
+			"desc": "Clon del juego clásico de Arkanoid.",
+			"img": "https://cesarhimura.files.wordpress.com/2021/07/screenshot_2.png",
+			"src": ""
 		}
 	]
 }
