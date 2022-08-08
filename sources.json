@@ -52,13 +52,13 @@
 		},
 		{
 			"name": "Basics Shading",
-			"desc": "Implementación de shaders básicos para comparar técnicas básicas. \n+ Gouraud Shading. \n+ Phong Shading. \n+ Blinn Phong Shading.",
+			"desc": "Implementación de shaders básicos para comparar técnicas básicas. \n Gouraud Shading. \n Phong Shading. \n Blinn Phong Shading.",
 			"img": "https://cesarhimura.files.wordpress.com/2021/07/screenshot_2.png",
 			"src": ""
 		},
 		{
 			"name": "Basics Shading",
-			"desc": "Implementación de shaders para materiales difusos. \n+ Lambert. \n+ Oren-Nayar.",
+			"desc": "Implementación de shaders para materiales difusos. \n Lambert. \n Oren-Nayar.",
 			"img": "https://cesarhimura.files.wordpress.com/2021/07/screenshot_2.png",
 			"src": ""
 		}
