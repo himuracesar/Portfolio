@@ -57,7 +57,7 @@
 			"src": ""
 		},
 		{
-			"name": "Basics Shading",
+			"name": "Difusse Shading",
 			"desc": "Implementación de shaders para materiales difusos. \n Lambert. \n Oren-Nayar.",
 			"img": "https://cesarhimura.files.wordpress.com/2021/07/screenshot_2.png",
 			"src": ""
