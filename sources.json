@@ -52,7 +52,18 @@
 		},
 		{
 			"name": "Basics Shading",
-			"desc": "Clon del juego clásico de Arkanoid.",
+			"desc": "Implementación de shaders básicos para comparar técnicas básicas.
+				+ Gouraud Shading.
+				+ Phong Shading.
+				+ Blinn Phong Shading.",
+			"img": "https://cesarhimura.files.wordpress.com/2021/07/screenshot_2.png",
+			"src": ""
+		},
+		{
+			"name": "Basics Shading",
+			"desc": "Implementación de shaders para materiales difusos.
+				+ Lambert.
+				+ Oren-Nayar.",
 			"img": "https://cesarhimura.files.wordpress.com/2021/07/screenshot_2.png",
 			"src": ""
 		}
