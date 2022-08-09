@@ -5,7 +5,7 @@
 		{
 			"name": "In-Hero",
 			"desc": "Juego del género bullet-hell donde el jugador controla una nave espacial y debe eliminar a los enemigos para abrirse paso en el escenario.",
-			"img": "https://cesarhimura.files.wordpress.com/2021/07/screenshot_2.png, width='200'",
+			"img": "https://cesarhimura.files.wordpress.com/2021/07/screenshot_2.png, width=\"200\"",
 			"src": ""
 		},
 		{
