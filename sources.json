@@ -3,6 +3,24 @@
 	"aboutimg": "https://pbs.twimg.com/profile_images/1481393685988196356/hfh5iFus_400x400.jpg",
 	"portfolio": [
 		{
+			"name": "Basics Shading",
+			"desc": "Basics techniques of shading. From left to right: + Gouraud Shading. + Phong Shading. + Blinn Phong Shading.",
+			"img": "https://cesarhimura.files.wordpress.com/2022/08/goraud_phong_blinn-phong000.jpg?w=1024",
+			"src": ""
+		},
+		{
+			"name": "Difusse Shading",
+			"desc": "Implementation of diffuse shading for materials. From left to right:\n+ Lambert.\n+ Oren-Nayar.",
+			"img": "https://cesarhimura.files.wordpress.com/2022/08/doggameengine_0000.jpg?w=1024",
+			"src": ""
+		},
+		{
+			"name": "Cook Torrance Shading Model",
+			"desc": "Cook Torrance shading model and planar reflectionswith stencil buffer.",
+			"img": "https://cesarhimura.files.wordpress.com/2022/08/cook_torrance_03.jpg?w=1024",
+			"src": ""
+		},
+		{
 			"name": "In-Hero",
 			"desc": "It’s a bullet hell game where the player controls a spaceship and have to destroy the enemies to can advance. Developed with Unity.",
 			"img": "https://cesarhimura.files.wordpress.com/2021/07/screenshot_2.png",
@@ -49,18 +67,6 @@
 			"name": "Sabotage",
 			"desc": "It’s a clone of Sabotage’s game of 1982 of Mark Allen for the Apple II. It conserves the essence of the original game. Developed with GTG Engine and Java.",
 			"img": "https://cesarhimura.files.wordpress.com/2021/06/sabotage03.png",
-			"src": ""
-		},
-		{
-			"name": "Basics Shading",
-			"desc": "Implementación de shaders básicos para comparar técnicas básicas. \n Gouraud Shading. \n Phong Shading. \n Blinn Phong Shading.",
-			"img": "https://cesarhimura.files.wordpress.com/2021/07/screenshot_2.png",
-			"src": ""
-		},
-		{
-			"name": "Difusse Shading",
-			"desc": "Implementación de shaders para materiales difusos. \n Lambert. \n Oren-Nayar.",
-			"img": "https://cesarhimura.files.wordpress.com/2021/07/screenshot_2.png",
 			"src": ""
 		}
 	]
